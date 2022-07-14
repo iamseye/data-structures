@@ -1,3 +1,5 @@
+// time: O(nlongn)
+// space: O(n)
 function quickSort(array) {
     if(!array.length) {
         return [];
